@@ -1,8 +1,8 @@
 Algoritmo adivina_el_numero
-    intentos<-10
+    intentos<-5
     num_secreto <- azar(100)+1
     
-    Escribir "Adivine el numero (de 1 a 100):"
+    Escribir "Adivine el numero:"
     Leer num_ingresado
     Mientras num_secreto<>num_ingresado && intentos>1 Hacer
         Si num_secreto>num_ingresado Entonces
