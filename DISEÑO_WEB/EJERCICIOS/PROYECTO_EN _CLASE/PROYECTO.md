@@ -9,3 +9,5 @@ Caso: Página informativa de la Escuela de Código PILARES
  Hacemos el llenado de los requerimientos en el siguiente documento --> [PLANTILLA](./1.-Reqierimientos.doc)
  
 (pueden usar la plantilla para futuros proyectos)
+
+Elaboramos el formato para determinar nuestra buyer persona --> 
