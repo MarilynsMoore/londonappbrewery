@@ -28,6 +28,5 @@ https://balsamiq.cloud/s1uwxqf/pth4vs3/rE39C
 Usando figma realizamos nuestro mockup --> https://www.figma.com/file/TakFMjlhLuybKfWnL6XaEQ/Untitled?node-id=7%3A345
 
 ### Maquetado
-![image](https://user-images.githubusercontent.com/91554777/164350553-5a8e1be0-2076-40e2-82c1-93b01dc75148.png)
 
 ![image](https://user-images.githubusercontent.com/91554777/164350745-68c8eaa2-c136-4bbb-b314-61663d53081a.png)
