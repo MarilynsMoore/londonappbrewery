@@ -5,7 +5,7 @@ Caso: Página informativa de la Escuela de Código PILARES
 * La página debe ser responsive para poder consultar desde el celular
 * La preferencia de colores sera el verde y el gris
  
- ## TOMA DE REQUERIMIENTOS 
+ ## FASE 1 TOMA DE REQUERIMIENTOS 
  Hacemos el llenado de los requerimientos en el siguiente documento --> [PLANTILLA](./1.-Reqierimientos.doc)
  
 (pueden usar la plantilla para futuros proyectos)
