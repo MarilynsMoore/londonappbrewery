@@ -22,3 +22,4 @@ Plantilla para púbico objetivo -- https://miro.com/es/plantillas/publico-objeti
 ### UI
 Usando la herramienta https://balsamiq.cloud/ realizamos nuestro wireframe --> [PLANTILLA](./3.-wireframe.pdf)
 
+https://balsamiq.cloud/s1uwxqf/pth4vs3/rE39C
