@@ -1,1 +1,66 @@
+## Fundamentos técnicos de una página web
+
+Pero, ¿qué es el hipertexto? Según el diccionario de la lengua de la Real Academia
+Española hipertexto es: conjunto estructurado de textos, gráficos etcétera, unidos entre sí
+por enlaces y conexiones lógicas. Un texto normal como por ejemplo, un libro,
+normalmente está limitado a una organización lineal o secuencial. Sin embargo, el
+hipertexto permite saltar de un punto a otro, en un mismo texto, o a otro texto a través
+de referencias. De este modo, en lugar de leer el texto de forma continua, en el hipertexto
+ciertos términos están relacionados y el texto se puede leer siguiendo diferentes caminos.
+Las relaciones en el hipertexto se establecen entre lo que se suele llamar como
+referencias, enlaces, vínculos o hipervínculos.
+
+Y, ¿qué es la hipermedia? El término hipermedia no figura en el diccionario de la lengua
+española de la RAE pero, podemos buscar un término relacionado con hipermedia,
+multimedia. Según el diccionario de la Lengua Española, multimedia es un adjetivo que
+significa: que utiliza conjunta y simultáneamente diversos medios como imágenes,
+sonidos y texto, en la transmisión de una información.
+
+Por tanto, un sistema multimedia es un sistema de comunicación en el que se emplean
+dos o más medios de comunicación distintos de forma concurrente. Un sistema
+multimedia puede integrar texto, voz, audio, fotografías, gráficos interactivos, vídeos,
+realidad virtual y otros.
+
+Un sistema multimedia proporciona una gran riqueza y una mayor flexibilidad a la hora
+de comunicar la información. La calidad multimedia no está restringida al mundo de los
+ordenadores así, por ejemplo, un libro acompañado de un CD de música ya es una obra
+multimedia. Para algunos autores, hipermedia es un término que nace de la unión del
+hipertexto más la multimedia, por tanto, si juntamos las definiciones de hipertexto y
+multimedia, podemos obtener la siguiente definición de hipermedia: conjunto
+estructurado de diversos medios como textos, gráficos, imágenes y sonidos unidos entre
+sí por enlaces y conexiones lógicas para la transmisión de una información.
+
+
+Si la multimedia proporciona una gran riqueza a la información, el hipertexto aporta una
+estructura que permite que la información pueda presentarse y explorarse siguiendo
+distintas secuencias de acuerdo a las necesidades y preferencias del usuario. Existen
+muchos sistemas que se basan en el hipertexto y la hipermedia pero, la web es el sistema
+más conocido y por eso la web se ha convertido en sinónimo de hipertexto e hipermedia.
+
+### ¿Qué son los lenguajes de marcado?
+Los lenguajes de etiquetas, también conocidos
+como lenguajes de marcado o de marcas, son los que nos permiten estructurar un
+documento mediante el uso de etiquetas. Los lenguajes de etiquetas no se identifican con
+los de programación; esto ocurre principalmente porque los lenguajes de etiquetas no
+definen algunos aspectos básicos presentes en los lenguajes de programación, como es
+el caso de funciones aritméticas o el uso de variables, por citar algunos ejemplos.
+
+Cuando queremos crear o dar formato a una página web, se nos presentan múltiples
+herramientas, pero todas tienen algo en común: el lenguaje de marcas.
+
+El lenguaje de marcas más conocido y extendido es el HTML (“HyperText Markup
+Language”, “Lenguaje de Marcado de Hipertexto”) y es el mismo que Tim Berners-Lee a
+inicios de 1990 creó como un subconjunto de SGML (Standard Generalized Markup
+Language, otro lenguaje de marcado). HTML es el lenguaje de etiquetas que funciona
+como una de las piedras angulares de la World Wide Web, llamado también como la
+Web, que no es más que un conjunto de documentos de hipertexto y/o hipermedios
+(páginas web) enlazados entre sí y accesibles desde internet.
+
+HTML ha tenido muchas actualizaciones a lo largo del tiempo, y la última versión de
+HTML es HTML5. En HTML5 se destacan sus características semánticas, las posibilidades
+multimedia que incorpora, las nuevas funciones para formulario y las características que
+se definen para poder integrarse con tecnologías que permitirán abrir una nueva etapa
+en Internet, en lo que se refiere a la arquitectura de las aplicaciones.
+
+
 
