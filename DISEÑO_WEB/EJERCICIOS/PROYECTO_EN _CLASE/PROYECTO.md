@@ -6,4 +6,6 @@ Caso: Página informativa de la Escuela de Código PILARES
 * La preferencia de colores sera el verde y el gris
  
  ## TOMA DE REQUERIMIENTOS 
- Para esta practica pueden usar la plantilla que les dejo en el siguiente link --> [PLANTILLA](./1.-Reqierimientos.doc)
+ Hacemos el llenado de los requerimientos en el siguiente documento --> [PLANTILLA](./1.-Reqierimientos.doc)
+ 
+(pueden usar la plantilla para futuros proyectos)
