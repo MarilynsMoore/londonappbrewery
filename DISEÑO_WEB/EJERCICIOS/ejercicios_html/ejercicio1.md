@@ -10,4 +10,4 @@ Realiza la siguiente página en HTML, puede utilizar algún editor de texto o cu
 2.
 Realiza la siguiente tabla en html
 
-![image](https://user-images.githubusercontent.com/91554777/163912050-f98d0b31-9c77-4a12-a098-28b1ae14e301.png)
+![image](https://user-images.githubusercontent.com/91554777/163912405-f3d6f53c-9ee1-40f5-9234-0a48dc6435e6.png)
