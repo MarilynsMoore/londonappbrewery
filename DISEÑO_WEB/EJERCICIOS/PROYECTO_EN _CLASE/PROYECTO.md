@@ -10,4 +10,10 @@ Caso: Página informativa de la Escuela de Código PILARES
  
 (pueden usar la plantilla para futuros proyectos)
 
-Elaboramos el formato para determinar nuestra buyer persona --> 
+Elaboramos el formato para determinar nuestra buyer persona --> [PLANTILLA](./2.-persona.pdf)
+
+Utilizando una herramienta llamada Miro, crearemos nuestro público objetivo 
+
+![image](https://user-images.githubusercontent.com/91554777/161871996-34895938-93cc-47e9-83f5-f431c8652de6.png)
+
+Plantilla para púbico objetivo -- https://miro.com/es/plantillas/publico-objetivo/
