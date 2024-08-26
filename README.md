@@ -19,6 +19,8 @@ https://escuelasdecodigo.cdmx.gob.mx/
 Cualquier persona que quiera aprender a programar código y cuente con 4-8 horas disponibles a la semana.
 *Menores de edad deberán entrar a las instalaciones acompañados de un adulto.
 
+![Frontend Image](./images/trip.jpg)
+![Frontend Image](./images/trip1.jpg)
 
 
 
