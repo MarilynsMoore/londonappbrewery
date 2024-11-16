@@ -5,17 +5,17 @@ Objetivo General: El estudiantado aplicará los conocimientos básicos en lengua
 HTML y lenguaje CSS con la finalidad de realizar el desarrollo de su primer portal
 web.
 
-I. Introducción
+* Introducción
 
-II. Herramientas para la creación de páginas web
+* Herramientas para la creación de páginas web
 
-III. Estructura básica de un documento HTML
+* Estructura básica de un documento HTML
 
-IV.Lenguaje HTML
+* Lenguaje HTML
 
-V. Lenguaje CSS
+* Lenguaje CSS
 
-VI. Proyecto “Mi página WEB”
+* Proyecto “Mi página WEB”
 
 ## LINKS DE APOYO
 
