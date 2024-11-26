@@ -5,23 +5,23 @@ Objetivo General: El estudiantado desarrollará conocimientos básicos para
 resolver problemas y representar soluciones a través de ejercicios de lógica de
 programación mediante algoritmos y diagramas.
 
-I. Algoritmo
+* Algoritmo
 
-II. Operadores
+* Operadores
 
-III. Conceptos básicos de programación
+* Conceptos básicos de programación
 
-IV. Tipos de Datos
+* Tipos de Datos
 
-V. Variables
+* Variables
 
-VI. Diagramas
+* Diagramas
 
-VII. Estructuras
+* Estructuras
 
-VIII. Introducción al diseño del pseudocódigo
+* Introducción al diseño del pseudocódigo
 
-IX. Proyecto
+* Proyecto
 
 ## LINKS DE APOYO
 https://aprende.org/pages.php?r=.cfcs_course&tagID=7929
