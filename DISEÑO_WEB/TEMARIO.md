@@ -5,6 +5,8 @@ Objetivo General: El estudiantado aplicará los conocimientos básicos en lengua
 HTML y lenguaje CSS con la finalidad de realizar el desarrollo de su primer portal
 web.
 
+<img src="../images/diseño.png" alt="DisenoWeb" >
+
 * Introducción
 
 * Herramientas para la creación de páginas web
