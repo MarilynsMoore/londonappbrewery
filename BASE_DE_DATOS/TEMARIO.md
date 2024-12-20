@@ -1,6 +1,8 @@
 # TEMARIO BASES DE DATOS
 Druración: 70hrs
 
+<img src="../images/bases.png" alt="BasesDatos">
+
 * Introducción a Base de Datos
 * Modelo Relacional
 * Diagramas entidad relación
