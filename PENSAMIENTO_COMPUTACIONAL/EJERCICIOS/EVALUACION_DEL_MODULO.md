@@ -229,24 +229,17 @@ Preguntas:
 
     3. 3list
 
-
     4. i1
-
 
     5. 1
 
-
     6. thing1
-
 
     7. 1thing
 
-
     8. ONE-HUNDRED
 
-
     9. ONE_HUNDRED
-
 
     10. something2do
 
