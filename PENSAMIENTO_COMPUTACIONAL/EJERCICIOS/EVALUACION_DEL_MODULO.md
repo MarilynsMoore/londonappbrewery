@@ -157,6 +157,7 @@ Indicaciones: Pedir subrayar o encerrar en un círculo la respuesta que consider
 Preguntas:
 
 1. Menciona al menos 3 tipos de datos que existen: (valor 0.4)
+
     Respuesta:
 
 2. ¿Qué tipo es cada uno de los siguientes datos? (valor 0.4 por cada inciso)
