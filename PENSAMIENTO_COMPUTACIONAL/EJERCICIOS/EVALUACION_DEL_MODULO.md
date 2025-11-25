@@ -51,18 +51,18 @@ Preguntas:
 
 1.Realiza las siguientes operaciones numéricas y calcula el valor final:
 
-    a) (100/5^2 + 1) + 11 * 3 =
-    (valor 0.5)
+    a) (100/5^2 + 1) + 11 * 3 =   (valor 0.5)
+   
 
 
-    b) (18/9 + 24) – ( 5 * 4 – 3^3) =
-    (valor 0.5)
+    b) (18/9 + 24) – ( 5 * 4 – 3^3) =      (valor 0.5)
+   
+ 
+    c) ((8-6)^2 * 3 - 2)^3 =        (valor 0.5)
 
-    c) ((8-6)^2 * 3 - 2)^3 =
-    (valor 0.5)
 
-    d) (3^2 + 10/2) + (3 * 9 - 1) =
-    (valor 0.5)
+    d) (3^2 + 10/2) + (3 * 9 - 1) =      (valor 0.5)
+ 
 
 2. Evalúe con FALSO o VERDADERO las siguientes expresiones relacionales. (valor 0.4 cada respuesta de la tabla)
 
