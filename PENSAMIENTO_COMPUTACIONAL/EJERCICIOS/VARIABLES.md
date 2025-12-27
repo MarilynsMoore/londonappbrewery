@@ -11,3 +11,5 @@ hogar?
 
 ¿Qué tipo de dato debe tener una variable para representar la cantidad de dinero que
 tienes?
+
+[Regresar al menu princiopal](https://github.com/escuelaDeCodigoMargaritaMaza/escuela_de_codigo/tree/main/PENSAMIENTO_COMPUTACIONAL)
