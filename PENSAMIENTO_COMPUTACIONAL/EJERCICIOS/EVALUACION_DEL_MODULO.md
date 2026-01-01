@@ -1,6 +1,6 @@
 
 
-I.- ALGORITMOS
+1️⃣  ALGORITMOS
 
 Responde como cierto o falso según corresponda.
 
@@ -41,7 +41,7 @@ secamos el agua de nuestras manos. ¡Listos! Tenemos nuestras manos limpias.
     Resultado:
 
 
-II. OPERADORES
+2️⃣ OPERADORES
 
 Objetivo: Verificar que el dominio del concepto básico de operador a través de una prueba de opción múltiple.
 
@@ -98,7 +98,7 @@ sacar la credencial? (valor 0.4 )
     Respuesta: 
 
 
-III. CONCEPTOS BÁSICOS DE PROGRAMACIÓN
+3️⃣ CONCEPTOS BÁSICOS DE PROGRAMACIÓN
 
 Objetivo: Verificar el dominio de los conceptos básicos de programación a través de la  asociación de cada uno de los conceptos con su significado.
 
@@ -148,7 +148,7 @@ por cada respuesta correcta de la tabla )
 
 
 
-IV. TIPO DE DATOS
+4️⃣ TIPO DE DATOS
 
 Objetivo: Verificar que el dominio del concepto básico de datos y los tipos a través de una prueba de opción múltiple.
 
@@ -213,7 +213,7 @@ Llena la siguiente tabla:
 
 
 
-V. VARIABLES
+5️⃣ VARIABLES
 Objetivo: Verificar el dominio del concepto básico de variable a través de una serie de preguntas específicas.
 
 Indicaciones: Pedir escribir frente a cada opción la respuesta que consideren correcta.
