@@ -267,3 +267,6 @@ Indica que tipo de variable es en cada caso: (valor 0.3 por cada uno)
     19. costo=750
 
     20. i = i - 1
+    
+    
+  [Regresar al menu principal del módulo](https://github.com/escuelaDeCodigoMargaritaMaza/escuela_de_codigo/tree/main/PENSAMIENTO_COMPUTACIONAL)
