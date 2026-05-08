@@ -1,25 +1,21 @@
-# ESTRUCTURAS DE CONTROL
-En programación, las estructuras de control permiten modificar el flujo de ejecución de las instrucciones de un programa.
+# RETOS
+## REALIZAR LOS SIGUIENTES RETOS CON SU ALGORITMO Y DIAGRAMA DE FLUJO CORRESPONDIENTE CADA UNO 
 
-Con las estructuras de control se puede:
 
-De acuerdo con una condición, ejecutar un grupo u otro de sentencias 
+* De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
 
-De acuerdo con el valor de una variable, ejecutar un grupo u otro de sentencias 
+* Para un programa que almacene la cadena de caracteres contraseña en una variable, pregunte al usuario por la contraseña e imprima por pantalla si la contraseña introducida por el usuario coincide con la guardada en la variable teniendo en cuenta mayúsculas y minúsculas.
 
-Ejecutar un grupo de sentencias mientras se cumpla una condición
+ 
+* Los alumnos de un curso se han dividido en dos grupos A y B de acuerdo al sexo y el nombre. El grupo A esta formado por las mujeres con un nombre anterior a la M y los hombres con un nombre posterior a la N y el grupo B por el resto. Escribir un programa que pregunte al usuario su nombre y sexo, y muestre por pantalla el grupo que le corresponde.
+ 
+ 
+* La pizzería Bella Napoli ofrece pizzas vegetarianas y no vegetarianas a sus clientes. Los ingredientes para cada tipo de pizza aparecen a continuación.
 
-Ejecutar un grupo de sentencias hasta que se cumpla una condición
+Ingredientes vegetarianos: Pimiento y tofu.
 
-Ejecutar un grupo de sentencias un número determinado de veces 
+Ingredientes no vegetarianos: Peperoni, Jamón y Salmón.
 
-Todos los lenguajes de programación modernos tienen estructuras de control similares. Básicamente lo que varía entre las estructuras de control de los diferentes lenguajes es su sintaxis; cada lenguaje tiene una sintaxis propia para expresar la estructura.
-
-## ESTRUCTURA SIMPLE
-La finalidad de utilizar la estructura condicional es tomar una decisión con base en el valor booleano de una expresión, es decir, determinar si la condición es verdadera o falsa.
-De acuerdo a su complejidad se clasifica en:
-
-* Simple. Donde la estructura ejecuta un bloque de instrucciones cuando la condición es verdadera, en caso contrario ignora ese bloque y continúa con la ejecución del
-resto de las instrucciones.
-* Compuesta. Evalúa una condición, si ésta es verdadera ejecuta el bloque de instrucciones más cercano, en caso contrario, realiza acciones alternativas.
-* Múltiple o según sea. Evalúa una condición y dependiendo de su valor booleano elige el bloque de instrucciones a ejecutar de entre varias opciones.
+Realizar un programa que pregunte al usuario si quiere una pizza vegetariana o no, y en función de su respuesta le muestre un menú con los ingredientes disponibles para que elija. Solo se puede eligir un ingrediente además de la mozzarella y el tomate que están en todas la pizzas. Al final se debe mostrar por pantalla si la pizza elegida es vegetariana o no y todos los ingredientes que lleva.
+ 
+* De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
