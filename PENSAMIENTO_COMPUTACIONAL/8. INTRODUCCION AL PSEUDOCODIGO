@@ -27,3 +27,62 @@ Los beneficios que proporciona son:
 
 • Evitar los errores gramaticales, abreviaciones y puntuaciones.
 • Cuando exista la posibilidad de elegir algún elemento a partir de un conjunto de elementos, éstos se enlistarán separados por el símbolo pipe ("|").
+
+## PSINT
+Un algoritmo es un conjunto de instrucciones que especifica la secuencia de
+operaciones a realizar, en orden, para resolver un problema específico; en otras
+palabras, un algoritmo es una fórmula para la resolución de un problema.
+La definición de un algoritmo debe describir tres partes: Entrada, Proceso y Salida,
+asi:
+• Entrada: Información dada al algoritmo, o conjunto de instrucciones que
+generen los valores con que ha de trabajar.
+• Proceso: Cálculos necesarios para que a partir de un dato de entrada se
+llegue a los resultados.
+• Salida: Resultados finales o transformación que ha sufrido la información
+de entrada a través del proceso.
+Cuando se formula un algoritmo el objetivo es ejecutar este en un computador, sin
+embargo, para que este entienda los pasos para llevar a cabo nuestro algoritmo
+debemos indicárselo siguiendo un conjunto de instrucciones y reglas que este
+entienda, y estas instrucciones son abstraídas en lo que conocemos como
+lenguaje de programación.
+Un algoritmo codificado siguiendo un lenguaje de programación es conocido como
+programa. Antes de aprender un lenguaje de programación es necesario
+aprender la metodología de programación, es decir la estrategia necesaria para
+resolver problemas mediante programas.
+Como punto de partida se aborda la manera como es representado un algoritmo.
+Básicamente analizamos dos formas, la representación usando pseudocódigo y
+la representación usando diagramas de flujo.
+Un diagrama de flujo es un diagrama que utiliza símbolos (cajas) estándar y que
+tiene los pasos del algoritmo escritos en esas cajas unidas por flechas,
+denominadas líneas de flujo, que indican las secuencia que debe ejecutar el ALGORITMO
+Por otro lado, el pseudocódigo es un lenguaje de especificación (descripción) de
+algoritmos. El uso de tal lenguaje hace el paso de codificación final (traducción al 
+lenguaje de programación) relativamente fácil, por lo que este es considerado un
+primer borrador de la solución del programa.
+¿Qué es PSEINT?
+PSeInt es principalmente un intérprete de pseudocódigo. El proyecto nació como
+trabajo final para la cátedra de Programación I de la carrera Ingeniería en
+Informática de la Universidad nacional del Litoral, razón por la cual el tipo de
+pseudocódigo que interpreta está basado en el pseudocódigo presentado en la
+cátedra de Fundamentos de Programación de dicha carrera. Actualmente incluye
+otras funcionalidades como editor y ayuda integrada, generación de diagramas de
+flujo o exportación a código C++ (en etapa experimental).
+El proyecto se distribuye como software libre bajo licencia GPL.
+Para descargarlo o conseguir actualizaciones visite http://pseint.sourceforge.net
+
+Forma general de un algoritmo en Pseudocódigo
+Todo algoritmo en pseudocódigo de Pseint tiene la siguiente estructura general:
+Proceso SinTitulo
+accion 1;
+accion 1;
+.
+.
+.
+accion n;
+FinProceso
+Comienza con la palabra clave Proceso seguida del nombre del programa, luego
+le sigue una secuencia de instrucciones y finaliza con la palabra FinProceso. Una
+secuencia de instrucciones es una lista de una o más instrucciones, cada una
+terminada en punto y coma.
+Las acciones incluyen operaciones de entrada y salida, asignaciones de variables,
+condicionales si-entonces o de selección múltiple y/o lazos mientras, repetir o 
